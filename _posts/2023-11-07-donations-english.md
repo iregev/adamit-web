@@ -5,5 +5,4 @@
 {:toc}
 
 ## Paypal
-Donate using paypal  
-<paypal.me/kibutzadamit>
+[Donate using paypal](paypal.me/kibutzadamit)
