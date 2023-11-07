@@ -5,8 +5,7 @@
 {:toc}
 
 ## Paybox
-תרום עם Paybox  
-<https://payboxapp.page.link/getEgR5ai1Jiim7u6>
+[תרום עם Paybox](https://payboxapp.page.link/getEgR5ai1Jiim7u6)
 
 ## חשבון בנק
 תרום בשקלים ישר לחשבון הבנק  
