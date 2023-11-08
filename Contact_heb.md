@@ -1,3 +1,4 @@
 # צור קשר
 קיבוץ אדמית  
-ישראל
+ישראל  
+kehilaadamit@gmail.com  

@@ -1,3 +1,4 @@
-# My contact
-Kibutz Adamit
-Israel
+# Contact
+Kibutz Adamit  
+Israel  
+kehilaadamit@gmail.com  
