@@ -5,6 +5,6 @@
 {:toc}
 
 ## Paypal
-[Donate using paypal](paypal.me/kibutzadamit)
+[Donate using paypal](https://paypal.me/kibutzadamit)
 ## Credit card
 [Donate using ko-fi](https://ko-fi.com/kibutzadamit)
