@@ -1,5 +1,5 @@
 # Donate here
-![](/images/logo.png "Adamit adamit logo")
+![](./images/logo.png "Adamit adamit logo")
 
 1. TOC
 {:toc}
