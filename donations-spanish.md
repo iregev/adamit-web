@@ -6,5 +6,5 @@
 
 ## Paypal
 [Donar usando paypal](https://paypal.me/kibutzadamit)
-## tarjeta de crédito
+## Tarjeta de crédito
 [Donar usando ko-fi](https://ko-fi.com/kibutzadamit)
