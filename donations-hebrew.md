@@ -14,3 +14,8 @@
 מספר חשבון 316253  
 קוד מוסד 420  
 ח.פ. 570015222  
+
+## תודה!
+אנחנו נשמח לשלוח לך מכתב תודה!  
+אם ברצונך לקבל מכתב, אנא מלא בנוסף את הטופס  
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScr7e463h-lTeHYTn8NxN2LUKPfoWnxZiod7Ub4dsbtlnICvg/viewform?embedded=true" width="400" height="660" frameborder="0" marginheight="0" marginwidth="0">טוען...</iframe>
