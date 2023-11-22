@@ -3,6 +3,8 @@
 [תרום עכשיו](donations-hebrew.html)  
 [Donate HERE](donations-english.html)  
 [Done aquí](donations-spanish.html)  
+[Pour faire un don](donations-french.html)  
+[Um zu spenden](donations-german.html)  
 
 קיבוץ אדמית  
 הישוב פונה בעקבות המלחמה וצריך את עזרתכם!  

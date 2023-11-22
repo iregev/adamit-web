@@ -1,5 +1,5 @@
 # Done aquí
-![](./images/logo.png "Adamit logo")
+![](./images/logo_eng.png "Adamit logo")
 
 1. Tabla de contenido
 {:toc}
