@@ -7,7 +7,7 @@
 ## Paypal
 [Donate using paypal](https://paypal.me/kibutzadamit)
 ## Credit card
-[Donate using ko-fi](https://ko-fi.com/kibutzadamit)
-# Contact details
-If you would like to receive a thanks you letter from us please also fill the form  
+[Donate using ko-fi](https://ko-fi.com/adamit)
+# Thank you!
+If you would like to receive a thank you letter from us, please also fill this form.  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScr7e463h-lTeHYTn8NxN2LUKPfoWnxZiod7Ub4dsbtlnICvg/viewform?embedded=true" width="400" height="660" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

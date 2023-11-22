@@ -1,4 +1,4 @@
 # Contact
-Kibutz Adamit  
+Adamit  
 Israel  
 kehilaadamit@gmail.com  
