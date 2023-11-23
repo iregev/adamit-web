@@ -1,9 +1,6 @@
 # תרום עכשיו
 ![](./images/logo.png "Adamit adamit logo")
 
-1. TOC
-{:toc}
-
 ## Paybox
 [תרום עם Paybox](https://payboxapp.page.link/getEgR5ai1Jiim7u6)
 
